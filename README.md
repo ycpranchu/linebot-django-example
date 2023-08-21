@@ -1,4 +1,4 @@
-Linebot + Django 專案實作
+Linebot + Django 實作
 ===
 
 - targets: Linebot + Django framework, chatbot implementation.
