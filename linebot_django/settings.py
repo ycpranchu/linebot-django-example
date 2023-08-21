@@ -21,8 +21,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-LINE_CHANNEL_ACCESS_TOKEN = 'i1BBDprhrfvQt/QtiaBy+3EYpLIFvhNOhWKKbbg6R3vlDAzZJPS0WnMRa4gdD18Smyn1Rrpmx8wzkmRYZtIiuWoi8xwlb+XH40oj2YhyOnkwEaPssBrrD/aup8DtEycgWvjtsJk2C7Sz7EaEAZzM4wdB04t89/1O/w1cDnyilFU='
-LINE_CHANNEL_SECRET = '3edd6c09b3e26c46a6c3a29aca246905'
+LINE_CHANNEL_ACCESS_TOKEN = ''
+LINE_CHANNEL_SECRET = ''
 SECRET_KEY = 'django-insecure-hhvn3%xiqceinq!w!k+eawcmih5^$=%i0njx(r$8%7%nrfw3tc'
 
 # SECURITY WARNING: don't run with debug turned on in production!

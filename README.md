@@ -51,7 +51,7 @@ deactivate
 
 ![](https://i.imgur.com/7PqZUGN.png)
 
-[解決方法](https://israynotarray.com/other/20200510/1067127387/ " UnauthorizedAccess")
+[解決方法](https://israynotarray.com/other/20200510/1067127387/)
 
 ```bash=
 # Windows PowerShell
@@ -83,7 +83,7 @@ cd '專案名稱'
 python manage.py startapp 'APP名稱'
 ```
 
-Django 基礎設定 Setting.py
+設定 setting.py
 ---
 
 1. 新增兩個資料夾
@@ -148,7 +148,8 @@ Django 基礎設定 Setting.py
 
     ![](https://i.imgur.com/NZEEbiN.png)
 
-### 設定 urls.py
+設定 urls.py
+---
 
 ```python=
 from django.contrib import admin
@@ -161,7 +162,8 @@ urlpatterns = [
 ]
 ```
 
-### 設定 views.py
+設定 views.py
+---
 
 ```python=
 from django.shortcuts import render
