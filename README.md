@@ -151,7 +151,7 @@ python manage.py startapp 'APP名稱'
 設定 urls.py
 ---
 
-```python=
+```python3
 from django.contrib import admin
 from django.urls import path
 from example import views
@@ -165,7 +165,7 @@ urlpatterns = [
 設定 views.py
 ---
 
-```python=
+```python3
 from django.shortcuts import render
 
 # Create your views here.
